@@ -17,8 +17,6 @@
 
 ### 🛠️ Languages & tools I have placed my hands on
 
-### 🛠️ Languages & tools I have placed my hands on
-
 <table><tr>
 <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/><br/><sub>Android Studio</sub></td>
 <td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
