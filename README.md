@@ -29,26 +29,15 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
   <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
   <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
-  <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
   <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
   <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex" />
-  <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
-  <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
-  <img src="https://skillicons.dev/icons?i=atom" width="48" height="48" alt="Atom" />
   <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
 </p>
 
