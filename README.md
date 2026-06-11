@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Antony+Jude+R;Student+%7C+Developer+%7C+Builder;Code.+Learn.+Repeat." alt="Typing SVG" />
 </p>
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=200&section=header&text=Hey%20I'm%20Anto&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anto+%F0%9F%91%8B;Student+Dev+%7C+Security+Enthusiast;Building+cool+stuff+%F0%9F%9A%80)
 ---
 
 ### 👋 Hey, I'm Anto
