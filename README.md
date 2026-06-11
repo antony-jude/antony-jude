@@ -41,7 +41,32 @@
 </tr></table>
 
 ---
+---
 
+### 🌐 Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-antos--portfolio.netlify.app-58a6ff?style=for-the-badge&labelColor=0d1117&color=58a6ff)](https://antos-portfolio.netlify.app/)
+
+</div>
+
+<!-- Animated card using readme-components -->
+<p align="center">
+  <a href="https://antos-portfolio.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=58A6FF¢er=true&vCenter=true&width=600&height=60&lines=🌐+Check+out+my+portfolio!;Projects+·+Skills+·+About+me;👉+antos-portfolio.netlify.app" alt="Portfolio banner" />
+  </a>
+</p>
+
+<div align="center">
+
+| 🚀 Live & Deployed | 🤝 Open to Collaborate | 🎓 Student Developer |
+|:---:|:---:|:---:|
+| [antos-portfolio.netlify.app](https://antos-portfolio.netlify.app/) | DM me on GitHub | Always building something |
+
+</div>
+
+---
 ### 📊 GitHub stats
 
 <p align="center">
