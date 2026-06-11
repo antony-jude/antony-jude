@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Antony+Jude+R;Student+%7C+Developer+%7C+Builder;Code.+Learn.+Repeat." alt="Typing SVG" />
 </p>
 ![Anto's Banner](https://raw.githubusercontent.com/antony-jude/antony-jude/main/assets/banner.svg)
+
+---
+
 ---
 
 ### 👋 Hey, I'm Anto
