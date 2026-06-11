@@ -11,7 +11,7 @@
 - 🔐 Interested in cybersecurity, web dev & AI
 - 🌱 Always learning something new
 - 💬 Ask me about anything — I love to collaborate!
-- 📫 Reach me at: **[your@email.com]**
+- 📫 Reach me at: **antonyjuder@gmail.com**
 
 ---
 
