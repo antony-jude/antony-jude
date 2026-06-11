@@ -15,16 +15,45 @@
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Languages & tools I have placed my hands on
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex" />
+  <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
+  <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+  <img src="https://skillicons.dev/icons?i=atom" width="48" height="48" alt="Atom" />
+  <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
 </p>
 
 ---
