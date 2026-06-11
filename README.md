@@ -41,26 +41,20 @@
 </tr></table>
 
 ---
----
-
----
-
-
----
 
 ### 🌐 My Portfolio
 
 <p align="center">
   <a href="https://antos-portfolio.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=560&height=50&lines=%F0%9F%8C%90+Anto's+Portfolio;Check+out+my+work!;antos-portfolio.netlify.app" alt="Portfolio" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=120§ion=header&text=Anto's%20Portfolio&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=antos-portfolio.netlify.app&descAlignY=60&descSize=14" width="100%" alt="Portfolio Banner" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://antos-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Portfolio-Visit_Now-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Live_%26_Deployed-3fb950?style=for-the-badge&labelColor=0d1117" alt="Live" />
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Status-Live_%26_Deployed-3fb950?style=for-the-badge&labelColor=0d1117" alt="Live" />&nbsp;
   <img src="https://img.shields.io/badge/Open_To-Collaborate-bc8cff?style=for-the-badge&labelColor=0d1117" alt="Collaborate" />
 </p>
 
@@ -72,9 +66,7 @@
 
 </div>
 
----
 
----
 
 ---
 ### 📊 GitHub stats
