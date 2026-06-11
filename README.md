@@ -17,27 +17,30 @@
 
 ### 🛠️ Languages & tools I have placed my hands on
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-  <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-</p>
+### 🛠️ Languages & tools I have placed my hands on
+
+<table><tr>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/><br/><sub>Android Studio</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/><br/><sub>GitLab</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/><sub>HTML5</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/><sub>CSS3</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/><sub>Figma</sub></td>
+</tr><tr>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br/><sub>PyCharm</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/><sub>C</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Kali Linux"/><br/><sub>Kali Linux</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/><br/><sub>Ubuntu</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><sub>Java</sub></td>
+<td align="center" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Terminal"/><br/><sub>Terminal</sub></td>
+</tr></table>
 
 ---
 
