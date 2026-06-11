@@ -5,13 +5,29 @@
 
 ---
 
-### 👤 About me
 
-- 🎓 Student & aspiring developer
-- 🔐 Interested in cybersecurity, web dev & AI
-- 🌱 Always learning something new
-- 💬 Ask me about anything — I love to collaborate!
-- 📫 Reach me at: **antonyjuder@gmail.com**
+### 👤 About Me
+
+<table>
+<tr>
+<td valign="top" width="70%">
+
+Hey! I'm **Anto** — a passionate student developer who loves building things on the web and diving deep into cybersecurity tools.
+
+When I'm not coding, you'll find me:
+- 🔐 Exploring Kali Linux & security tools
+- 🌐 Building web apps with React & Node.js
+- ☕ Drinking coffee and debugging at 2am
+- 📚 Always learning something new
+
+</td>
+<td valign="top" align="center" width="30%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="120" alt="Cat" />
+
+</td>
+</tr>
+</table>
 
 ---
 
