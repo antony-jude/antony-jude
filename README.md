@@ -22,8 +22,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
