@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Antony+Jude+R;Student+%7C+Developer+%7C+Builder;Code.+Learn.+Repeat." alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=0:0d1117,50:161b22,100:00ffcc&height=220&section=header&text=Anto%20%7C%20Developer%20%26%20CyberSec&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Anto's Banner" />
+</p>
+
 ---
 
 ### 👤 About Me
@@ -13,19 +17,31 @@
 Hey! I'm **Anto** — a passionate student developer who loves building things on the web and diving deep into cybersecurity tools.
 
 When I'm not coding, you'll find me:
-- 🔐 Exploring Kali Linux & security tools
-- 🌐 Building web apps with React & Node.js
-- ☕ Drinking coffee and debugging at 2am
-- 📚 Always learning something new
+- 🔐 **Securing the Web** | Exploring Kali Linux, CTFs, & network security tools.
+- 🌐 **Building Apps** | Crafting responsive web applications with React & Node.js.
+- ☕ **Night Owl** | Drinking coffee and hunting bugs down at 2 AM.
+- 📚 **Continuous Growth** | Always learning, optimizing logic, and breaking things (ethically).
 
 </td>
 <td valign="top" align="center" width="30%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="120" alt="Animated Dog Face" />
+<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h1ZXU3dmt3b3V0YjdpaHJuMzZ4Zmw4cnZ0Z3RxN2wzbmtxdmhrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9C8nALp9XUqH9mO1Nf/giphy.gif" width="130" alt="Pixel Dog Coding" />
+<br/>
+<sub><b>Byte the Dog 🐕</b></sub>
 
 </td>
 </tr>
 </table>
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+</p>
 
 ---
 
