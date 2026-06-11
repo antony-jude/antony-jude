@@ -43,6 +43,8 @@
 ---
 ---
 
+---
+
 ### 🌐 Portfolio
 
 <div align="center">
@@ -65,6 +67,8 @@
 | [antos-portfolio.netlify.app](https://antos-portfolio.netlify.app/) | DM me on GitHub | Always building something |
 
 </div>
+
+---
 
 ---
 ### 📊 GitHub stats
