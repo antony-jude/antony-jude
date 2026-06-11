@@ -115,7 +115,18 @@ and diving deep into cybersecurity tools.
 </p>
 
 ---
+## Contribution Snake
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antony-jude/antony-jude/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antony-jude/antony-jude/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/antony-jude/antony-jude/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+---
 ### 🚀 Featured projects
 
 | Project | Description | Stack |
