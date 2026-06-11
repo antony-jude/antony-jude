@@ -8,24 +8,40 @@
 
 ---
 
-### 👤 About Me
+### 👋 Hey, I'm Anto
 
 <table>
 <tr>
 <td valign="top" width="70%">
 
-Hey! I'm **Anto** — a passionate student developer who loves building things on the web and diving deep into cybersecurity tools.
+A passionate student developer who loves building things on the web
+and diving deep into cybersecurity tools.
 
-When I'm not coding, you'll find me:
-- 🔐 Exploring Kali Linux & security tools
-- 🌐 Building web apps with React & Node.js
-- ☕ Drinking coffee and debugging at 2am
-- 📚 Always learning something new
+<br>
+
+| | |
+|---|---|
+| 🔐 | Exploring Kali Linux & security tools |
+| 🌐 | Building web apps with React & Node.js |
+| ☕ | Drinking coffee & debugging at 2am |
+| 📚 | Always learning something new |
+
+<br>
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 </td>
 <td valign="top" align="center" width="30%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="120" alt="Cat" />
+✨ ✨ ✨
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="120" alt="Dog" />
+
+✨ ✨ ✨
+
+*woof.exe running*
 
 </td>
 </tr>
