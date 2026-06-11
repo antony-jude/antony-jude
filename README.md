@@ -42,6 +42,7 @@
 
 ---
 
+
 ### 🌐 My Portfolio
 
 <p align="center">
@@ -55,18 +56,18 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Portfolio-Visit_Now-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
   </a>&nbsp;
   <img src="https://img.shields.io/badge/Status-Live_%26_Deployed-3fb950?style=for-the-badge&labelColor=0d1117" alt="Live" />&nbsp;
-  <img src="https://img.shields.io/badge/Open_To-Collaborate-bc8cff?style=for-the-badge&labelColor=0d1117" alt="Collaborate" />
+  <a href="https://antos-portfolio.netlify.app/contact">
+    <img src="https://img.shields.io/badge/Open_To-Collaborate-bc8cff?style=for-the-badge&labelColor=0d1117" alt="Collaborate" />
+  </a>
 </p>
 
 <div align="center">
 
 | 🌐 Portfolio | 📬 Contact | 🎓 Role |
 |:---:|:---:|:---:|
-| [antos-portfolio.netlify.app](https://antos-portfolio.netlify.app/) | DM via GitHub | Student Developer |
+| [antos-portfolio.netlify.app](https://antos-portfolio.netlify.app/) | [DM via contact page](https://antos-portfolio.netlify.app/contact) | Student Developer |
 
 </div>
-
-
 
 ---
 ### 📊 GitHub stats
