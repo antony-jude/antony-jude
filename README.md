@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Antony+Jude+R;Student+%7C+Developer+%7C+Builder;Code.+Learn.+Repeat." alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=0:0d1117,50:161b22,100:00ffcc&height=220&section=header&text=Anto%20%7C%20Developer%20%26%20CyberSec&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Anto's Banner" />
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
+  Hey, I'm Anto
+</h1>
 
 ---
 
