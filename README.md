@@ -45,28 +45,34 @@
 
 ---
 
-### 🌐 Portfolio
 
-<div align="center">
+---
 
-[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-antos--portfolio.netlify.app-58a6ff?style=for-the-badge&labelColor=0d1117&color=58a6ff)](https://antos-portfolio.netlify.app/)
+### 🌐 My Portfolio
 
-</div>
-
-<!-- Animated card using readme-components -->
 <p align="center">
   <a href="https://antos-portfolio.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=58A6FF¢er=true&vCenter=true&width=600&height=60&lines=🌐+Check+out+my+portfolio!;Projects+·+Skills+·+About+me;👉+antos-portfolio.netlify.app" alt="Portfolio banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=560&height=50&lines=%F0%9F%8C%90+Anto's+Portfolio;Check+out+my+work!;antos-portfolio.netlify.app" alt="Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://antos-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Portfolio-Visit_Now-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Live_%26_Deployed-3fb950?style=for-the-badge&labelColor=0d1117" alt="Live" />
+  <img src="https://img.shields.io/badge/Open_To-Collaborate-bc8cff?style=for-the-badge&labelColor=0d1117" alt="Collaborate" />
 </p>
 
 <div align="center">
 
-| 🚀 Live & Deployed | 🤝 Open to Collaborate | 🎓 Student Developer |
+| 🌐 Portfolio | 📬 Contact | 🎓 Role |
 |:---:|:---:|:---:|
-| [antos-portfolio.netlify.app](https://antos-portfolio.netlify.app/) | DM me on GitHub | Always building something |
+| [antos-portfolio.netlify.app](https://antos-portfolio.netlify.app/) | DM via GitHub | Student Developer |
 
 </div>
+
+---
 
 ---
 
