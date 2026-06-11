@@ -19,13 +19,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -82,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=antony-jude&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
