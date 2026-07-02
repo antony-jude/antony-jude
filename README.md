@@ -138,7 +138,7 @@ and diving deep into cybersecurity tools.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🔐 Project 1](https://github.com/yourusername/project1) | Brief description here | Python, Kali tools |
+| [🔐 Project 1]([https://github.com/yourusername/project1](https://github.com/antony-jude/Have-Been-Pwned)) | HavePwned-Know your exposure before an attacker does. | React,Vite |
 | [🌐 Project 2](https://github.com/yourusername/project2) | Brief description here | React, Node.js |
 | [📱 Project 3](https://github.com/yourusername/project3) | Brief description here | Java, HTML |
 
